@@ -1,6 +1,6 @@
 # Project description
 
-Very simple example of using Reacts Context-API for statemanagement
+Very simple example of using Reacts Context-API for state management
 
 # Getting Started with Create React App
 
